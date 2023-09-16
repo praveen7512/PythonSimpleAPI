@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyCharm directories
+.idea/
+
+# Virtual Environment
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS directories
+.DS_Store
+
+# Windows directories
+Thumbs.db
+This .gitignore file includes common patterns for ignoring Python-specific files, virtual environment directories (e.g., venv/), PyCharm-specific directories (e.g., .idea/), and platform-specific files (e.g., .DS_Store for macOS).
+
+You can create a .gitignore file in the root directory of your project and save it with the contents above. This will help keep your Git repository clean and prevent irrelevant files and directories from being included in version control.
+
+
+
+
+
